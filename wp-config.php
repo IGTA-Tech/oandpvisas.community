@@ -94,14 +94,6 @@ if ( ! defined( 'WP_DEBUG' ) ) {
 	define( 'WP_DEBUG', false );
 }
 
-/**Dev setup start**/
-define('WP_MEMORY_LIMIT', '256M');
-define('WP_MAX_MEMORY_LIMIT', '512M');
-set_time_limit(300);
-define('WP_SITEURL', 'http://oandpvisas.community.local/');
-define('WP_HOME', 'http://oandpvisas.community.local/');
-/**Dev setup ended**/
-
 define( 'FS_METHOD', 'direct' );
 define( 'COOKIEHASH', '9301099a4b7e26a557733fe55b769c6c' );
 define( 'WP_AUTO_UPDATE_CORE', false );
