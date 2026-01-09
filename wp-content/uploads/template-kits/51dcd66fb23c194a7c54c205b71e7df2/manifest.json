@@ -1,0 +1,1513 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Soluvice - Template kit for IT Services",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/template.creativemox.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "soluvice - Header",
+            "screenshot": "screenshots\/soluvice-header.jpg",
+            "source": "templates\/soluvice-header.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/?elementor_library=soluvice-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "soluvice - footer",
+            "screenshot": "screenshots\/soluvice-footer.jpg",
+            "source": "templates\/soluvice-footer.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/?elementor_library=soluvice-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "soluvice - error 404",
+            "screenshot": "screenshots\/soluvice-error-404.jpg",
+            "source": "templates\/soluvice-error-404.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/?elementor_library=soluvice-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "soluvice - blog",
+            "screenshot": "screenshots\/soluvice-blog.jpg",
+            "source": "templates\/soluvice-blog.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/?elementor_library=soluvice-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "soluvice - single post",
+            "screenshot": "screenshots\/soluvice-single-post.jpg",
+            "source": "templates\/soluvice-single-post.json",
+            "preview_url": "https:\/\/template.creativemox.com\/soluvice\/?elementor_library=soluvice-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: All Singular."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.1.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.8",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.21.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.21.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg_R.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/bg_R-800x369.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/soluvice-blog.json",
+                    "name": "soluvice - blog"
+                },
+                {
+                    "source": "templates\/soluvice-single-post.json",
+                    "name": "soluvice - single post"
+                }
+            ],
+            "filesize": 34743,
+            "dimensions": [
+                1389,
+                640
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/abstract-techno-banner-with-hexagonal-design_10412350.htm"
+        },
+        {
+            "filename": "bg_L.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/bg_L-800x372.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/soluvice-blog.json",
+                    "name": "soluvice - blog"
+                },
+                {
+                    "source": "templates\/soluvice-single-post.json",
+                    "name": "soluvice - single post"
+                }
+            ],
+            "filesize": 20146,
+            "dimensions": [
+                1077,
+                501
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/abstract-techno-banner-with-hexagonal-design_10412350.htm"
+        },
+        {
+            "filename": "img_2-1.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/img_2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                }
+            ],
+            "filesize": 73639,
+            "dimensions": [
+                580,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-successful-student-or-designer-holding-lapto-L3XRULL"
+        },
+        {
+            "filename": "img_3-1.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/img_3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                }
+            ],
+            "filesize": 10664,
+            "dimensions": [
+                373,
+                348
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-11.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/06\/logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1900,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/06\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2300,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/06\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2193,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/06\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2079,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/06\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1811,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/06\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2063,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img_3.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/img_3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 12584,
+            "dimensions": [
+                287,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "it-engineer-in-server-room.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/it-engineer-in-server-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 129987,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3BAF7KG"
+        },
+        {
+            "filename": "male-server-administrator-squatting-with-laptop-in-server-room.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/male-server-administrator-squatting-with-laptop-in-server-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 110596,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NV87QWL"
+        },
+        {
+            "filename": "vertical-photo-of-a-man-employs-cloud-based-computing-on-his-smartphone-.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/vertical-photo-of-a-man-employs-cloud-based-computing-on-his-smartphone--800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 182437,
+            "dimensions": [
+                1280,
+                1707
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZT4UL54"
+        },
+        {
+            "filename": "day-dreaming-about-bigger-things.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/day-dreaming-about-bigger-things-800x590.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 98891,
+            "dimensions": [
+                1280,
+                945
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SZ6R8K3"
+        },
+        {
+            "filename": "programmers-cooperating-brainstorming-at-information-technology-company.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/programmers-cooperating-brainstorming-at-information-technology-company-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 138276,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/programmers-cooperating-brainstorming-at-informati-7C5E6PL"
+        },
+        {
+            "filename": "server-room-laptop-and-people-team-for-software-management-system-upgrade-and-cyber-security-tea.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/server-room-laptop-and-people-team-for-software-management-system-upgrade-and-cyber-security-tea-800x536.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 130080,
+            "dimensions": [
+                1280,
+                858
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/server-room-laptop-and-people-team-for-software-ma-57YA8QK"
+        },
+        {
+            "filename": "bg_pattern.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/bg_pattern-800x792.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 49952,
+            "dimensions": [
+                848,
+                840
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "customer-support-mentor-computer-consulting-and-black-people-telemarketing-on-contact-us-crm-or-te.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/customer-support-mentor-computer-consulting-and-black-people-telemarketing-on-contact-us-crm-or-te-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 204230,
+            "dimensions": [
+                1280,
+                1919
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/customer-support-mentor-computer-consulting-and-bl-QHL7NMH"
+        },
+        {
+            "filename": "brainstorming-is-better-with-technology.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/brainstorming-is-better-with-technology-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 111696,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UJ77HJC"
+        },
+        {
+            "filename": "tablet-man-and-portrait-in-server-room-of-engineer-programming-at-night-information-technology-f.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/tablet-man-and-portrait-in-server-room-of-engineer-programming-at-night-information-technology-f-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 92577,
+            "dimensions": [
+                1280,
+                855
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tablet-man-and-portrait-in-server-room-of-engineer-VRB8ELG"
+        },
+        {
+            "filename": "Bulb-icon-1.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/Bulb-icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 9037,
+            "dimensions": [
+                350,
+                512
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Waranty-Icon-3.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/Waranty-Icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 15826,
+            "dimensions": [
+                423,
+                512
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Team-icon-2.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/Team-icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 10414,
+            "dimensions": [
+                450,
+                407
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Message-Icon-4.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/Message-Icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 10836,
+            "dimensions": [
+                512,
+                448
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "map_bg.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/map_bg-800x449.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 34831,
+            "dimensions": [
+                1080,
+                606
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/square-dotted-world-map-and-earth-globes-Q676QDA"
+        },
+        {
+            "filename": "02.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 31590,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "23.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/23.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 34357,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "06.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/soluvice-single-post.json",
+                    "name": "soluvice - single post"
+                }
+            ],
+            "filesize": 26967,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "03.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 42463,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "texture-box-pattern.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/texture-box-pattern.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 130,
+            "dimensions": [
+                4,
+                4
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_2.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/img_2.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                }
+            ],
+            "filesize": 63423,
+            "dimensions": [
+                500,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-asia-lady-using-laptop-with-positive-express-LG8NFZN"
+        },
+        {
+            "filename": "efficiency-of-the-team-is-efficiency-of-the-business.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/efficiency-of-the-team-is-efficiency-of-the-business-800x530.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 127330,
+            "dimensions": [
+                1280,
+                848
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/efficiency-of-the-team-is-efficiency-of-the-busine-CQ38CWE"
+        },
+        {
+            "filename": "Grid-01.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/Grid-01-800x545.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 74637,
+            "dimensions": [
+                4700,
+                3200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 38209,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "04.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 50580,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "08.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 43784,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "32.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/32.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 31076,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "blur-BG.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/blur-BG-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 27368,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "digital-marketing-creative-business-women-planning-collaboration-and-marketing-ideas-brainstormin.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/digital-marketing-creative-business-women-planning-collaboration-and-marketing-ideas-brainstormin-800x507.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                }
+            ],
+            "filesize": 124424,
+            "dimensions": [
+                1280,
+                812
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/digital-marketing-creative-business-women-planning-MMV5NBE"
+        },
+        {
+            "filename": "ux-developers-and-ui-designers-data-researchers-brainstorm-on-tabletop-mobile-app-interface-wirefr.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/ux-developers-and-ui-designers-data-researchers-brainstorm-on-tabletop-mobile-app-interface-wirefr-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single service"
+                }
+            ],
+            "filesize": 186185,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ux-developers-and-ui-designers-data-researchers-br-5Q4CXTT"
+        },
+        {
+            "filename": "nice-woman-on-shopping-in-clothes-store.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/nice-woman-on-shopping-in-clothes-store-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 123343,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/nice-woman-on-shopping-in-clothes-store-KUB33UU"
+        },
+        {
+            "filename": "interior-of-beautiful-modern-office.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/interior-of-beautiful-modern-office-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 111701,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/interior-of-beautiful-modern-office-2YF85X5"
+        },
+        {
+            "filename": "modern-wedding-bouquet-perfume-bottle-and-gift-box.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/modern-wedding-bouquet-perfume-bottle-and-gift-box-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 138579,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-wedding-bouquet-perfume-bottle-and-gift-box-XS5SGD3"
+        },
+        {
+            "filename": "cyber-security-technology-and-asian-woman-with-security-password-in-office-workspace-and-building.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/cyber-security-technology-and-asian-woman-with-security-password-in-office-workspace-and-building-800x524.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 104324,
+            "dimensions": [
+                1280,
+                838
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cyber-security-technology-and-asian-woman-with-sec-LW3GVD7"
+        },
+        {
+            "filename": "real-estate-agents-are-holding-a-housing-model-.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/real-estate-agents-are-holding-a-housing-model--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 64294,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/real-estate-agents-are-holding-a-housing-model-NCSJMUR"
+        },
+        {
+            "filename": "asian-young-woman-use-laptop-computer-for-shopping-product-sell-online-.jpg",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/asian-young-woman-use-laptop-computer-for-shopping-product-sell-online--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 108671,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-young-woman-use-laptop-computer-for-shopping-TVGJACN"
+        },
+        {
+            "filename": "Soluvice-New-Black.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/Soluvice-New-Black.png",
+            "templates": [
+                {
+                    "source": "templates\/soluvice-header.json",
+                    "name": "soluvice - Header"
+                }
+            ],
+            "filesize": 17541,
+            "dimensions": [
+                479,
+                125
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Accent-BG-10.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/Accent-BG-10.png",
+            "templates": [
+                {
+                    "source": "templates\/soluvice-footer.json",
+                    "name": "soluvice - footer"
+                }
+            ],
+            "filesize": 216328,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Soluvice-New-White-logo.png",
+            "thumbnail_url": "http:\/\/template.creativemox.com\/soluvice\/wp-content\/uploads\/sites\/12\/2024\/05\/Soluvice-New-White-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/soluvice-footer.json",
+                    "name": "soluvice - footer"
+                }
+            ],
+            "filesize": 16364,
+            "dimensions": [
+                479,
+                125
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
