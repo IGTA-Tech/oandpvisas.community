@@ -7,7 +7,7 @@
 - **Error:** Maximum memory size exceeded
 
 ### Solution
-**For cevelopment Environment only** Add the following code to `wp-config.php` **before** the line:
+**For Development Environment only** Add the following code to `wp-config.php` **before** the line:
 ```php
 define('FS_METHOD', 'direct');
 define('WP_MEMORY_LIMIT', '256M');
