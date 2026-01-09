@@ -23,4 +23,3 @@ set_time_limit(300);
 - GitHub-ready code blocks
 - Fixed grammar and clarity
 
-If you want it **shorter**, **more formal**, or **with setup steps**, tell me and I’ll refine it further.
