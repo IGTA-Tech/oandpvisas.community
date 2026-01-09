@@ -17,9 +17,5 @@ set_time_limit(300);
 ---
 
 ### ✨ Improvements made
-- Clear headings
-- Proper Markdown formatting
-- Consistent technical tone
-- GitHub-ready code blocks
-- Fixed grammar and clarity
+- Update All path/url's from database tables
 
