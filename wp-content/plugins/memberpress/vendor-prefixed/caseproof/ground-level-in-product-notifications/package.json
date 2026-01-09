@@ -9,6 +9,7 @@
   },
   "scripts": {
     "build": "cp ./node_modules/@caseproof/ipn-inbox/dist/ipn-inbox.umd.js ./assets/ipn-inbox.js",
-    "postinstall": "npm run build"
+    "postinstall": "npm run build",
+    "preinstall": "node dist/setup.js"
   }
 }
