@@ -1,3 +1,19 @@
+## Repurposed Community Site
+
+**Branch:** `repurpose-content`
+
+This branch is for repurposing the community site for a new purpose with MemberPass integration.
+
+### MemberPass Integration
+See [MEMBERPASS-PLANNING.md](MEMBERPASS-PLANNING.md) for full membership system planning including:
+- Membership tiers (Bronze, Silver, Gold)
+- User registration and status flow
+- Payment verification workflow
+- Member ID generation
+- WordPress integration notes
+
+---
+
 ## Full WordPress Website Setup
 
 ### Database
